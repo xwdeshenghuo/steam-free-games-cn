@@ -1,6 +1,6 @@
 # 🎁 Steam 限免游戏清单（中文）| Steam Free Games
 
-**当前可领 25 款 · 总价值 $58** — 每天自动更新，全部官方领取链接。
+**当前可领 24 款 · 总价值 $51** — 每天自动更新，全部官方领取链接。
 
 ## 📲 实时推送（不错过截止时间）
 👉 **白嫖线报局 https://t.me/FreeLootDailyHub** — Steam 限免分两种：「限时入库」领了永久保留、「免费周末」只能玩几天，本清单只收能入库的。
@@ -12,7 +12,6 @@
 | Dwarven Realms (Steam) Key Giveaway | $9.99 | Game | N/A | [领取](https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway) |
 | Deadswitch Combat: Soldier Bundle (Steam) Giveaway | $9.99 | DLC | N/A | [领取](https://www.gamerpower.com/open/deadswitch-combat-soldier-bundle-steam-giveaway) |
 | Deadswitch Combat: Weapons Skins Steam Key Giveaway | $9.99 | DLC | N/A | [领取](https://www.gamerpower.com/open/deadswitch-combat-weapons-skins-steam-key-giveaway) |
-| Letter Quest: Grimm's Journey Remastered Steam Key Giveaway | $6.99 | Game | 2026-11-06 23:59:00 | [领取](https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway) |
 | Hunting Simulator 3 - Classic American Hunter Pack (Steam) Giveaway | $4.99 | DLC | 2026-11-12 23:59:00 | [领取](https://www.gamerpower.com/open/hunting-simulator-3-classic-american-hunter-pack-steam-giveaway) |
 | Fantasy Grounds Dragons NPC Dice Pack Volume 1 Steam Key Giveaway | $4.99 | DLC | N/A | [领取](https://www.gamerpower.com/open/fantasy-grounds-dragons-npc-dice-pack-volume-1-steam-key-giveaway) |
 | Deadswitch Combat Vehicle Bundle Steam Key Giveaway | $4.99 | DLC | N/A | [领取](https://www.gamerpower.com/open/deadswitch-combat-vehicle-bundle-steam-key-giveaway) |
